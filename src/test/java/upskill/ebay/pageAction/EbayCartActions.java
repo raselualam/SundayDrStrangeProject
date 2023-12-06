@@ -56,4 +56,6 @@ public class EbayCartActions {
 		EbayCartLocatorsObj.btnAddCart.click();
 		Thread.sleep(2000);
 	}
+	
+	//changes for github PR review class
 }
