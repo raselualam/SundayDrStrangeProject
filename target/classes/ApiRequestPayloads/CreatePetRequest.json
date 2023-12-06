@@ -1,0 +1,18 @@
+{
+    "id": 4567,
+    "category": {
+        "id": 43,
+        "name": "dog"
+    },
+    "name": "mimi",
+    "photoUrls": [
+        "https://petstore.photo"
+    ],
+    "tags": [
+        {
+            "id": 3234,
+            "name": "Office"
+        }
+    ],
+    "status": "available"
+}
